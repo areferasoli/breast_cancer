@@ -62,5 +62,5 @@ jupyter notebook Breast_Cancer_ML.ipynb
 ├── Breast_Cancer_ML.ipynb   # full analysis with outputs
 ├── requirements.txt
 ├── README.md
-└── images/                  # figures used in this README
+                # figures used in this README
 ```
